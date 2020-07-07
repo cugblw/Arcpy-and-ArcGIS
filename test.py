@@ -4,3 +4,4 @@ y = [1, 2, 3, 4, 5] #etc
 plt.plot(x, y, label='line')
 plt.show()
 print(x)
+print(y)
